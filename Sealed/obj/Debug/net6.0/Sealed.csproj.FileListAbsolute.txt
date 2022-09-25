@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\CSharpSyntaxes\Sealed\obj\Debug\net6.0\Sealed.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\Sealed\obj\Debug\net6.0\Sealed.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\CSharpSyntaxes\Sealed\obj\Debug\net6.0\Sealed.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\Sealed\obj\Debug\net6.0\Sealed.AssemblyInfo.cs
+E:\Desktop\Software_Lang\CSharpSyntaxes\Sealed\obj\Debug\net6.0\Sealed.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\Sealed\bin\Debug\net6.0\Sealed.exe
+E:\Desktop\Software_Lang\CSharpSyntaxes\Sealed\bin\Debug\net6.0\Sealed.deps.json
+E:\Desktop\Software_Lang\CSharpSyntaxes\Sealed\bin\Debug\net6.0\Sealed.runtimeconfig.json
+E:\Desktop\Software_Lang\CSharpSyntaxes\Sealed\bin\Debug\net6.0\Sealed.dll
+E:\Desktop\Software_Lang\CSharpSyntaxes\Sealed\bin\Debug\net6.0\Sealed.pdb
+E:\Desktop\Software_Lang\CSharpSyntaxes\Sealed\obj\Debug\net6.0\Sealed.dll
+E:\Desktop\Software_Lang\CSharpSyntaxes\Sealed\obj\Debug\net6.0\refint\Sealed.dll
+E:\Desktop\Software_Lang\CSharpSyntaxes\Sealed\obj\Debug\net6.0\Sealed.pdb
+E:\Desktop\Software_Lang\CSharpSyntaxes\Sealed\obj\Debug\net6.0\Sealed.genruntimeconfig.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\Sealed\obj\Debug\net6.0\ref\Sealed.dll

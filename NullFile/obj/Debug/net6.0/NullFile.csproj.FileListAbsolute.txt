@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\CSharpSyntaxes\NullFile\obj\Debug\net6.0\NullFile.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\NullFile\obj\Debug\net6.0\NullFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\CSharpSyntaxes\NullFile\obj\Debug\net6.0\NullFile.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\NullFile\obj\Debug\net6.0\NullFile.AssemblyInfo.cs
+E:\Desktop\Software_Lang\CSharpSyntaxes\NullFile\obj\Debug\net6.0\NullFile.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\NullFile\bin\Debug\net6.0\NullFile.exe
+E:\Desktop\Software_Lang\CSharpSyntaxes\NullFile\bin\Debug\net6.0\NullFile.deps.json
+E:\Desktop\Software_Lang\CSharpSyntaxes\NullFile\bin\Debug\net6.0\NullFile.runtimeconfig.json
+E:\Desktop\Software_Lang\CSharpSyntaxes\NullFile\bin\Debug\net6.0\NullFile.dll
+E:\Desktop\Software_Lang\CSharpSyntaxes\NullFile\bin\Debug\net6.0\NullFile.pdb
+E:\Desktop\Software_Lang\CSharpSyntaxes\NullFile\obj\Debug\net6.0\NullFile.dll
+E:\Desktop\Software_Lang\CSharpSyntaxes\NullFile\obj\Debug\net6.0\refint\NullFile.dll
+E:\Desktop\Software_Lang\CSharpSyntaxes\NullFile\obj\Debug\net6.0\NullFile.pdb
+E:\Desktop\Software_Lang\CSharpSyntaxes\NullFile\obj\Debug\net6.0\NullFile.genruntimeconfig.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\NullFile\obj\Debug\net6.0\ref\NullFile.dll

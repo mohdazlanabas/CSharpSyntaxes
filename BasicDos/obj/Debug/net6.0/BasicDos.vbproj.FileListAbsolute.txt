@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\CSharpSyntaxes\BasicDos\bin\Debug\net6.0\BasicDos.exe
+E:\Desktop\Software_Lang\CSharpSyntaxes\BasicDos\bin\Debug\net6.0\BasicDos.deps.json
+E:\Desktop\Software_Lang\CSharpSyntaxes\BasicDos\bin\Debug\net6.0\BasicDos.runtimeconfig.json
+E:\Desktop\Software_Lang\CSharpSyntaxes\BasicDos\bin\Debug\net6.0\BasicDos.dll
+E:\Desktop\Software_Lang\CSharpSyntaxes\BasicDos\bin\Debug\net6.0\BasicDos.pdb
+E:\Desktop\Software_Lang\CSharpSyntaxes\BasicDos\obj\Debug\net6.0\BasicDos.vbproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\BasicDos\obj\Debug\net6.0\BasicDos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\CSharpSyntaxes\BasicDos\obj\Debug\net6.0\BasicDos.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\BasicDos\obj\Debug\net6.0\BasicDos.AssemblyInfo.vb
+E:\Desktop\Software_Lang\CSharpSyntaxes\BasicDos\obj\Debug\net6.0\BasicDos.vbproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\BasicDos\obj\Debug\net6.0\BasicDos.dll
+E:\Desktop\Software_Lang\CSharpSyntaxes\BasicDos\obj\Debug\net6.0\refint\BasicDos.dll
+E:\Desktop\Software_Lang\CSharpSyntaxes\BasicDos\obj\Debug\net6.0\BasicDos.pdb
+E:\Desktop\Software_Lang\CSharpSyntaxes\BasicDos\obj\Debug\net6.0\BasicDos.genruntimeconfig.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\BasicDos\obj\Debug\net6.0\ref\BasicDos.dll

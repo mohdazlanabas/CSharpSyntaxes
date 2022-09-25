@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\Syntaxes\Exceptions\obj\Debug\net6.0\Exceptions.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\Syntaxes\Exceptions\obj\Debug\net6.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\Syntaxes\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\Syntaxes\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfo.cs
+E:\Desktop\Software_Lang\Syntaxes\Exceptions\obj\Debug\net6.0\Exceptions.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\Syntaxes\Exceptions\bin\Debug\net6.0\Exceptions.exe
+E:\Desktop\Software_Lang\Syntaxes\Exceptions\bin\Debug\net6.0\Exceptions.deps.json
+E:\Desktop\Software_Lang\Syntaxes\Exceptions\bin\Debug\net6.0\Exceptions.runtimeconfig.json
+E:\Desktop\Software_Lang\Syntaxes\Exceptions\bin\Debug\net6.0\Exceptions.dll
+E:\Desktop\Software_Lang\Syntaxes\Exceptions\bin\Debug\net6.0\Exceptions.pdb
+E:\Desktop\Software_Lang\Syntaxes\Exceptions\obj\Debug\net6.0\Exceptions.dll
+E:\Desktop\Software_Lang\Syntaxes\Exceptions\obj\Debug\net6.0\refint\Exceptions.dll
+E:\Desktop\Software_Lang\Syntaxes\Exceptions\obj\Debug\net6.0\Exceptions.pdb
+E:\Desktop\Software_Lang\Syntaxes\Exceptions\obj\Debug\net6.0\Exceptions.genruntimeconfig.cache
+E:\Desktop\Software_Lang\Syntaxes\Exceptions\obj\Debug\net6.0\ref\Exceptions.dll

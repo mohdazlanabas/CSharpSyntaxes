@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\CSharpSyntaxes\HarryPorter\bin\Debug\net6.0\HarryPorter.exe
+E:\Desktop\Software_Lang\CSharpSyntaxes\HarryPorter\bin\Debug\net6.0\HarryPorter.deps.json
+E:\Desktop\Software_Lang\CSharpSyntaxes\HarryPorter\bin\Debug\net6.0\HarryPorter.runtimeconfig.json
+E:\Desktop\Software_Lang\CSharpSyntaxes\HarryPorter\bin\Debug\net6.0\HarryPorter.dll
+E:\Desktop\Software_Lang\CSharpSyntaxes\HarryPorter\bin\Debug\net6.0\HarryPorter.pdb
+E:\Desktop\Software_Lang\CSharpSyntaxes\HarryPorter\obj\Debug\net6.0\HarryPorter.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\HarryPorter\obj\Debug\net6.0\HarryPorter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\CSharpSyntaxes\HarryPorter\obj\Debug\net6.0\HarryPorter.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\HarryPorter\obj\Debug\net6.0\HarryPorter.AssemblyInfo.cs
+E:\Desktop\Software_Lang\CSharpSyntaxes\HarryPorter\obj\Debug\net6.0\HarryPorter.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\HarryPorter\obj\Debug\net6.0\HarryPorter.dll
+E:\Desktop\Software_Lang\CSharpSyntaxes\HarryPorter\obj\Debug\net6.0\refint\HarryPorter.dll
+E:\Desktop\Software_Lang\CSharpSyntaxes\HarryPorter\obj\Debug\net6.0\HarryPorter.pdb
+E:\Desktop\Software_Lang\CSharpSyntaxes\HarryPorter\obj\Debug\net6.0\HarryPorter.genruntimeconfig.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\HarryPorter\obj\Debug\net6.0\ref\HarryPorter.dll

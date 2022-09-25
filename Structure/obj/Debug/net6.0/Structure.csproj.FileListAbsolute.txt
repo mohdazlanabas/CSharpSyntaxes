@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\AdvanceCSharp2\Structure\bin\Debug\net6.0\Structure.exe
+E:\Desktop\Software_Lang\AdvanceCSharp2\Structure\bin\Debug\net6.0\Structure.deps.json
+E:\Desktop\Software_Lang\AdvanceCSharp2\Structure\bin\Debug\net6.0\Structure.runtimeconfig.json
+E:\Desktop\Software_Lang\AdvanceCSharp2\Structure\bin\Debug\net6.0\Structure.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\Structure\bin\Debug\net6.0\Structure.pdb
+E:\Desktop\Software_Lang\AdvanceCSharp2\Structure\obj\Debug\net6.0\Structure.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\Structure\obj\Debug\net6.0\Structure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\AdvanceCSharp2\Structure\obj\Debug\net6.0\Structure.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\Structure\obj\Debug\net6.0\Structure.AssemblyInfo.cs
+E:\Desktop\Software_Lang\AdvanceCSharp2\Structure\obj\Debug\net6.0\Structure.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\Structure\obj\Debug\net6.0\Structure.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\Structure\obj\Debug\net6.0\refint\Structure.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\Structure\obj\Debug\net6.0\Structure.pdb
+E:\Desktop\Software_Lang\AdvanceCSharp2\Structure\obj\Debug\net6.0\Structure.genruntimeconfig.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\Structure\obj\Debug\net6.0\ref\Structure.dll

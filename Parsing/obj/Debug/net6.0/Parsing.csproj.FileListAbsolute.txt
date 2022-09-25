@@ -1,0 +1,17 @@
+E:\Desktop\Software_Lang\AdvanceCSharp2\Parsing\obj\Debug\net6.0\Parsing.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\Parsing\obj\Debug\net6.0\Parsing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\AdvanceCSharp2\Parsing\obj\Debug\net6.0\Parsing.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\Parsing\obj\Debug\net6.0\Parsing.AssemblyInfo.cs
+E:\Desktop\Software_Lang\AdvanceCSharp2\Parsing\obj\Debug\net6.0\Parsing.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\Parsing\bin\Debug\net6.0\Parsing.exe
+E:\Desktop\Software_Lang\AdvanceCSharp2\Parsing\bin\Debug\net6.0\Parsing.deps.json
+E:\Desktop\Software_Lang\AdvanceCSharp2\Parsing\bin\Debug\net6.0\Parsing.runtimeconfig.json
+E:\Desktop\Software_Lang\AdvanceCSharp2\Parsing\bin\Debug\net6.0\Parsing.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\Parsing\bin\Debug\net6.0\Parsing.pdb
+E:\Desktop\Software_Lang\AdvanceCSharp2\Parsing\obj\Debug\net6.0\Parsing.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\Parsing\obj\Debug\net6.0\refint\Parsing.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\Parsing\obj\Debug\net6.0\Parsing.pdb
+E:\Desktop\Software_Lang\AdvanceCSharp2\Parsing\obj\Debug\net6.0\Parsing.genruntimeconfig.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\Parsing\obj\Debug\net6.0\ref\Parsing.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\Parsing\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\Parsing\obj\Debug\net6.0\Parsing.csproj.CopyComplete

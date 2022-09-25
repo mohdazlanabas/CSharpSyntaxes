@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\AdvanceCSharp2\Testing\obj\Debug\net6.0\test.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\Testing\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\AdvanceCSharp2\Testing\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\Testing\obj\Debug\net6.0\test.AssemblyInfo.cs
+E:\Desktop\Software_Lang\AdvanceCSharp2\Testing\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\Testing\bin\Debug\net6.0\test.exe
+E:\Desktop\Software_Lang\AdvanceCSharp2\Testing\bin\Debug\net6.0\test.deps.json
+E:\Desktop\Software_Lang\AdvanceCSharp2\Testing\bin\Debug\net6.0\test.runtimeconfig.json
+E:\Desktop\Software_Lang\AdvanceCSharp2\Testing\bin\Debug\net6.0\test.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\Testing\bin\Debug\net6.0\test.pdb
+E:\Desktop\Software_Lang\AdvanceCSharp2\Testing\obj\Debug\net6.0\test.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\Testing\obj\Debug\net6.0\refint\test.dll
+E:\Desktop\Software_Lang\AdvanceCSharp2\Testing\obj\Debug\net6.0\test.pdb
+E:\Desktop\Software_Lang\AdvanceCSharp2\Testing\obj\Debug\net6.0\test.genruntimeconfig.cache
+E:\Desktop\Software_Lang\AdvanceCSharp2\Testing\obj\Debug\net6.0\ref\test.dll

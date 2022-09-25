@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\CSharpSyntaxes\Params01\obj\Debug\net6.0\Params01.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\Params01\obj\Debug\net6.0\Params01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\CSharpSyntaxes\Params01\obj\Debug\net6.0\Params01.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\Params01\obj\Debug\net6.0\Params01.AssemblyInfo.cs
+E:\Desktop\Software_Lang\CSharpSyntaxes\Params01\obj\Debug\net6.0\Params01.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\Params01\bin\Debug\net6.0\Params01.exe
+E:\Desktop\Software_Lang\CSharpSyntaxes\Params01\bin\Debug\net6.0\Params01.deps.json
+E:\Desktop\Software_Lang\CSharpSyntaxes\Params01\bin\Debug\net6.0\Params01.runtimeconfig.json
+E:\Desktop\Software_Lang\CSharpSyntaxes\Params01\bin\Debug\net6.0\Params01.dll
+E:\Desktop\Software_Lang\CSharpSyntaxes\Params01\bin\Debug\net6.0\Params01.pdb
+E:\Desktop\Software_Lang\CSharpSyntaxes\Params01\obj\Debug\net6.0\Params01.dll
+E:\Desktop\Software_Lang\CSharpSyntaxes\Params01\obj\Debug\net6.0\refint\Params01.dll
+E:\Desktop\Software_Lang\CSharpSyntaxes\Params01\obj\Debug\net6.0\Params01.pdb
+E:\Desktop\Software_Lang\CSharpSyntaxes\Params01\obj\Debug\net6.0\Params01.genruntimeconfig.cache
+E:\Desktop\Software_Lang\CSharpSyntaxes\Params01\obj\Debug\net6.0\ref\Params01.dll
